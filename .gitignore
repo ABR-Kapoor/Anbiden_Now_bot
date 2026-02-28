@@ -3,3 +3,4 @@ bot.py
 venv
 user_data.json
 utils.py
+.env
